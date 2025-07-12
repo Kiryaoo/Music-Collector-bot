@@ -25,9 +25,9 @@ cd Music-Collector-bot
 
 .env the file must contain the bot token for further code execution and operation
 
-3. Running the code
+3. Running the code 
    
-Use the next command to run code :
+Use the next command to run code locally :
 ``
 py bot.py
 ``
