@@ -12,7 +12,7 @@ This bot allows users to send a song title to Telegram and receive an audio file
 - asyncio is for working with asynchronous code.
 - Telegram Bot API is a platform for integrating with Telegram.
 
-## ## Getting Started
+## Getting Started
 
 1. Clone the repository:
    
