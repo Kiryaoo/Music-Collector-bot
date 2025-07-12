@@ -27,7 +27,7 @@ cd Music-Collector-bot
 
 3. Running the code
    
-Use command below to run code :
+Use the next command to run code :
 ``
 py bot.py
 ``
